@@ -1,0 +1,5 @@
+python-nmap==0.7.1           # Biblioteca para interagir com o Nmap
+scapy==2.5.0                 # Biblioteca para criação e envio de pacotes
+argparse==1.4.0              # Biblioteca para argumentos de linha de comando
+Jinja2==3.1.2                # Para gerar relatórios em HTML
+pytest==7.4.0                # Para rodar testes automatizados

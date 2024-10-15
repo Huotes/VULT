@@ -1,0 +1,24 @@
+Vult/
+│
+├── vult/
+│   ├── __init__.py
+│   ├── cli.py
+│   ├── scanner.py
+│   ├── packet_creator.py
+│   ├── vulnerability_analyzer.py
+│   ├── reporter.py
+│   ├── config.py
+│   └── logger.py
+│
+├── tests/
+│   ├── test_scanner.py
+│   ├── test_packet_creator.py
+│   └── ... (outros testes)
+│
+├── docs/
+│   └── architecture.md
+│
+├── requirements.txt
+├── setup.py
+├── README.md
+└── .gitignore
