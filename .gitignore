@@ -1,0 +1,33 @@
+# Ignore environment folder
+vult_venv/
+
+# Ignore documentation folder
+docs/
+
+# Python specific ignores
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+
+# Ignore cache and virtual environment files
+.vscode/
+.idea/
+*.swp
+.env
+.envrc
+.venv/
+*.DS_Store
+
+# Ignore log files
+*.log
+
+# Ignore generated report files
+*.json
+*.xml
+*.html
+
+# Ignore pytest cache
+.pytest_cache/
